@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Praveen Kumar
+<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 
-   <ul> 📫 Reach me at: kumarspraveen57@gmail.com </ul>
+- 📫 Reach me at: kumarspraveen57@gmail.com 
 <!--
 **praveen-crypto/praveen-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
